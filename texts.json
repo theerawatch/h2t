@@ -1,0 +1,11 @@
+{
+    "yellow": [
+        "Stereo blur dataset. It consists of 135 sequences, which",
+        "re captured from both indoor and outdoor scenarios."
+    ],
+    "blue": [
+        "while the outdoor images contain other scenarios,",
+        "traffic and boats. In addition, other various factors including illu-mination, weather and photograph fashions are considered, which",
+        "help to build it with diverse motion patterns. Following [4], the"
+    ]
+}
